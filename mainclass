@@ -1,0 +1,15 @@
+import java.io;
+import java.*;
+
+public static main string(args[]){
+  int Health;
+  int pokeLvl = 1;
+  string Name;
+  string type;
+  string rarity;
+  int attack;
+  int defense;
+  
+  
+  
+}
